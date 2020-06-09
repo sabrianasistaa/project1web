@@ -16,8 +16,8 @@
                 <br>
                 <div class="row">
                     <div class="col">
-                        <button class="btn btn-outline-danger">Contact</button>
-                        <button class="btn btn-danger ml-2">Profile</button>
+                        <a class="btn btn-outline-danger" href="/kontak">Kontak</a>
+                        <a class="btn btn-danger ml-2" href="/profil">Profil</a>
                     </div>
                 </div>
             </div>
