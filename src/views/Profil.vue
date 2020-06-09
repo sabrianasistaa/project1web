@@ -115,7 +115,7 @@
         <div class="card mb-4">
             <div class="row no-gutters">
                 <div class="col-md-3">
-                    <img src="../assets/pics/gurupklh.jpg" class="card-img" alt="...">
+                    <img src="../assets/pics/gigi.jpg" class="card-img" alt="...">
                 </div>
                 <div class="col-md-9 d-flex align-self-center">
                     <div class="card-body">

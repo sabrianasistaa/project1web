@@ -1,7 +1,7 @@
 <template>
     <div id="header">
         <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/">
                 <img src="../assets/logo.png" width="45" height="45" class="d-inline-block align-center" alt="logo">
                 Blog SD Guru Tunas Bangsa
             </a>
